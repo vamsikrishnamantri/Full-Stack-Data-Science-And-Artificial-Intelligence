@@ -3,6 +3,7 @@
 a=10;# here a is an identity to a variable where we are storing 10 in it.
 a
 
+
 #print() is a predefined function that is using to display any data as an output.
 b=20
 print(a)
@@ -11,6 +12,7 @@ print(b)
 #id() it is also a predefined function that used to get an unique id number to the variabes.
 print(id(a))
 print(id(b))
+
 
 #In python Capital A and Small a are different because it is a case sensitive language.
 A=10
